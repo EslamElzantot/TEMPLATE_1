@@ -17,4 +17,4 @@ This project is a simple and clean static web page built using **HTML** and **CS
 
 ## 📸 Preview
 
-![Web Development Page Screenshot](images/preview.png)
+![Web Development Page Screenshot](Images/preview.png)
